@@ -1,2 +1,0 @@
-javac xkcdpwgen.java
-
